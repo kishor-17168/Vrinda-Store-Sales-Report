@@ -33,6 +33,6 @@ The dashboard provides a user-friendly and data-driven view of Vrinda Store’s 
 3. Use the slicers and filters to explore the data based on your preferences.
 4. Review the summary metrics and charts to gain insights.
 
-![image alt](https://github.com/KISHOR-17168/Amazon-Prime-Video-Dashboard/blob/main/Screenshot%202024-11-23%20134041.png?raw=true)
+![image alt](https://github.com/kishor-17168/Vrinda-Store-Sales-Report/blob/main/vindra.png?raw=true)
 
 
